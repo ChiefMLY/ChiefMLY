@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladiyusuph
-- 👀 I’m interested in Bioinformartics and Data Science
-- 🌱 I’m currently learning Python and Biostatistics
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Python and Statistics for Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data science and ML projects
 - 📫 How to reach me: You can reach me on twitter @ladiyusuph_
 
